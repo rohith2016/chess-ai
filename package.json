@@ -1,0 +1,11 @@
+{
+  "name": "chess-ai",
+  "version": "1.0.0",
+  "description": "using javascript",
+  "main": "ai.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rohith kanchi",
+  "license": "ISC"
+}
